@@ -269,3 +269,7 @@ p {
     position: relative;
     width: 60%;
 }
+
+.boarder {
+    padding:25px;
+}
